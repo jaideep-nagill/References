@@ -27,7 +27,7 @@ class Stack {
     return arr[top--];
   }
 
-  public int peak(){
+  public int peek(){
     if ( top == -1){
       System.out.println("StackUnderFlow");
       return -1;
