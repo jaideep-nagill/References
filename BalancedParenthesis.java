@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main{
+public class BalancedParenthesis{
   static char matching(char c){
     if ( c == '}')
       return '{';
