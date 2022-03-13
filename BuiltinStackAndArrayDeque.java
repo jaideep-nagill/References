@@ -1,7 +1,7 @@
 import java.util.Stack;
 import java.util.*;
 
-public class Main{
+public class BuiltinStackAndArrayDeque{
   public static void main(String [] args){
     Stack<Integer> st = new Stack<Integer>();
     st.push(1);
