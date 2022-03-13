@@ -1,5 +1,5 @@
 import java.util.Stack;
-import java.util.ArrayDeque;
+import java.util.*;
 
 public class Main{
   public static void main(String [] args){
@@ -15,7 +15,7 @@ public class Main{
     System.out.println(st.isEmpty());
     System.out.println(st);
 
-    ArrayDeque<Integer> ad = new ArrayDeque<Integer>();
+    Deque<Integer> ad = new ArrayDeque<Integer>();
     ad.push(1);
     ad.push(2);
     ad.push(3);
@@ -27,4 +27,3 @@ public class Main{
     System.out.println(ad.peek());
   }
 }
-
