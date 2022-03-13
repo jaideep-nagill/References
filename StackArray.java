@@ -48,7 +48,7 @@ class Stack {
   }
 }
 
-public class Main{
+public class StackArray{
   public static void main(String [] args){
     Stack s = new Stack(10);
     for (int i = 1; i <=10; i++)
