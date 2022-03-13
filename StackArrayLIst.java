@@ -26,7 +26,7 @@ class Stack {
   }
 }
 
-public class Main{
+public class StackArrayLIst{
   public static void main(String [] args){
     Stack s = new Stack();
     for (int i = 1; i <=10; i++)
