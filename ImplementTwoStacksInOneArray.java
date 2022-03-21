@@ -1,7 +1,8 @@
 // { Driver Code Starts
   import java.util.*;
 
-  class Main
+  class ImplementTwoStacksInOneArray
+    
   {
     
     int size;
